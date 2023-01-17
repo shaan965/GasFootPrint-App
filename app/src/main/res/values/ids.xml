@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="GasStationName" type="id" />
+    <item name="date" type="id" />
+    <item name="GasolineCheck" type="id" />
+    <item name="Dieselcheck" type="id" />
+    <item name="InfoOfGas" type="id" />
+    <item name="GasLitre" type="id" />
+    <item name="Liters" type="id" />
+    <item name="PricePerLiter" type="id" />
+    <item name="PricePerLiterText" type="id" />
+    <item name="GotoList" type="id" />
+</resources>
